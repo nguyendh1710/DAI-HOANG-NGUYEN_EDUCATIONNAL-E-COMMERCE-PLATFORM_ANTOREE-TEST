@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "task": "Làm bài tập React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Học TypeScript",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Luyện tập Material-UI",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "task": "Đọc sách về lập trình",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "task": "Xây dựng ứng dụng Todo List",
+      "completed": false
+    }
+  ]
+  
