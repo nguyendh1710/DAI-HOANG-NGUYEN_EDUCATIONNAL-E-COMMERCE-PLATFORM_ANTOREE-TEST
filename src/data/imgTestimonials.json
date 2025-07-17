@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Chị Minh Thư",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2017.png?raw=true",
+    "width": "31.96px",
+    "height": "31.96px",
+    "top":"10",
+    "left":"4",
+    "comment": "Tôi rất hài lòng khi mua các khóa học online cho con qua sàn. Quy trình đăng ký nhanh, dễ theo dõi, thanh toán cũng tiện lợi. Bé nhà tôi học trên nền tảng khá hào hứng, kiến thức cập nhật, giáo viên tận tâm.!",
+    "role": "Phụ huynh học sinh"
+  },
+  {
+    "id": 2,
+    "name": "Anh Quốc Huy",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2018.png?raw=true",
+    "width": "42.663px",
+    "height": "42.663px",
+    "top":"2",
+    "left":"6",
+    "comment": "Sàn giúp tôi tiếp cận nhiều học viên hơn so với việc dạy truyền thống. Tôi có thể đăng khóa học dễ dàng, quản lý học viên rõ ràng. Đội ngũ hỗ trợ phản hồi nhanh, rất chuyên nghiệp.!",
+    "role": "Phụ huynh học sinh"
+  },
+  {
+    "id": 3,
+    "name": "Bạn Lan Anh",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2019.png?raw=true",
+    "width": "92.489px",
+    "height": "92.489px",
+    "top":"3",
+    "left":"12",
+    "comment": "Tôi tìm thấy rất nhiều khóa học bổ trợ kỹ năng mềm, tin học, ngoại ngữ phù hợp với mình. Giá cả hợp lý, nhiều ưu đãi hấp dẫn. Học mọi lúc mọi nơi, rất linh hoạt!",
+    "role": "Sinh viên đại học"
+  },
+  {
+    "id": 4,
+    "name": " Bạn Gia Huy",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2020.png?raw=true",
+    "width": "120.566px",
+    "height": "120.566px",
+    "top":"-20",
+    "left":"8",
+    "comment": "Trên sàn có nhiều khóa học về lập trình và tiếng Anh cho thiếu nhi, em học thấy thú vị lắm. Có game nhỏ trong bài học nữa nên không bị chán!",
+    "role": "Học sinh lớp 6"
+  },
+  {
+    "id": 5,
+    "name": "Bạn Hoàng My",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2021.png?raw=true",
+    "width": "39.864px",
+    "height": "39.864px",
+    "top":"4",
+    "left":"28",
+    "comment": "Em thích nhất là có thể học bất cứ khi nào, kể cả ban đêm. Khóa học luyện thi của em rất chi tiết, có cả đề thi thử giống thật. Rất tiện cho việc ôn thi đại học.",
+    "role": "Học sinh lớp 11"
+  },
+  {
+    "id": 6,
+    "name": "Bạn Minh Khoa",
+    "uri": "https://github.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/blob/main/src/Testimonials/image%2021.png?raw=true",
+    "width": "57.823px",
+    "height": "57.823px",
+    "top":"7",
+    "left":"24",
+    "comment": "Em thấy học trên sàn này rất vui, bài giảng có video sinh động, thầy cô giảng dễ hiểu. Có bài tập làm ngay sau bài học nên dễ nhớ bài hơn!",
+    "role": "Học sinh lớp 9"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 16,
+    "name": "Khóa học Tiếng Anh Thương Mại",
+    "price": 950000,
+    "image": "https://github.com/nguyendh-xp97/VerDHN-DAI-HOANG-NGUYEN_EDUCATIONNAL-E-COMMERCE-PLATFORM_ANTOREE/blob/main/src/home/Kh%C3%B3a%20h%E1%BB%8Dc%20Ti%E1%BA%BFng%20Anh%20Th%C6%B0%C6%A1ng%20M%E1%BA%A1i.jpg?raw=true",
+    "description": "Tiếng Anh giao tiếp chuyên ngành thương mại.",
+    "details": "Nội dung đào tạo giao tiếp, viết email, thuyết trình trong môi trường công ty, xuất nhập khẩu, thương mại quốc tế. Bổ sung từ vựng chuyên ngành và tình huống giao tiếp thực tế trong kinh doanh.",
+    "evaluate": [
+      {
+        "ten": "Phạm Văn T",
+        "anh": "https://randomuser.me/api/portraits/men/23.jpg",
+        "thoiGian": "2025-07-16",
+        "rating": 5,
+        "comments": "Cải thiện kỹ năng làm việc với khách hàng nước ngoài."
+      }
+    ]
+  }
+]

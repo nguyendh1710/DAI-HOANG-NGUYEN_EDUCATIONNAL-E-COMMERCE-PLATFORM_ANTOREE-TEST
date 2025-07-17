@@ -1,0 +1,12 @@
+[
+  {
+    "userId": 123,
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@example.com",
+    "role": "user",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+    "refreshToken": "dGhpc2lzYXJlZnJlc2h0b2tlbg==",
+    "loginTime": "2025-07-16T10:23:45.000Z",
+    "profilePictureUrl": "/acc.jpg"
+  }
+]

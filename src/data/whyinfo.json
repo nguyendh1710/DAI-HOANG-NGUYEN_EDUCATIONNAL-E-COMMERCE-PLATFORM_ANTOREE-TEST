@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "A lot of price range",
+      "text": "Don’t need to worry choosing car that match your budget, we serve cars with a lot of price variant",
+      "icon": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/a2e4eb124347f44b9fd177537b1951fe2b7e705c/src/Why/WhyInfo/Frame%20637.svg"
+      
+    },
+    {
+      "id": 2,
+      "title": "Pick-up date",
+      "text": "Technical Support guaranteed",
+      "icon": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/a2e4eb124347f44b9fd177537b1951fe2b7e705c/src/Why/WhyInfo/Vector.svg"
+     
+    },
+    {
+      "id": 3,
+      "title": "24 hours car delivery",
+      "text": "Your rent car will be delivered promptly, allowing  to proceed without unnecessary delays",
+      "icon": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/a2e4eb124347f44b9fd177537b1951fe2b7e705c/src/Why/WhyInfo/Vector%20(1).svg"
+      
+    },
+    {
+      "id": 4,
+      "title": "Expert Driver Service",
+      "text": "Trust in their expertise to navigate through traffic and ensure your safety throughout the journey",
+      "icon": "https://raw.githubusercontent.com/nguyendh-xp97/VerDHN-ROAD-TRIP-RENT-CAR-_-LANDING-PAGE---REACTJS-MUI-RESPONSIVE-TYPESCRIPT/a2e4eb124347f44b9fd177537b1951fe2b7e705c/src/Why/WhyInfo/Vector%20(2).svg"
+     
+    }
+  ]
+  

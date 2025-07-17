@@ -1,17 +1,32 @@
-import { ThemeProvider } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import theme from "./componets/theme";
 import "./App.css";
-import TodoList from "./../src/modules/TodoList/TodoList";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
+import Home from "./modules/Home/Home";
+import NotFound from "./componets/NotFound";
+import Wishlist from "./modules/Wishlist/Wishlist";
+import Cart from "./modules/Cart/Cart";
+import FavoritesProvider from "./context/FavoritesContext";
+import CartProvider from "./context/CartContext";
+
+const queryClient = new QueryClient();
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <CssBaseline /> {/* Reset theo Material UI */}
-      <div className="App">
-        <TodoList />
-      </div>
-    </ThemeProvider>
+    <QueryClientProvider client={queryClient}>
+      <CartProvider>
+        <FavoritesProvider>
+          <Router>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/wishlist" element={<Wishlist />} />
+              <Route path="/cart" element={<Cart />} />
+              {/* Route mặc định khi không khớp */}
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </Router>
+        </FavoritesProvider>
+      </CartProvider>
+    </QueryClientProvider>
   );
 }
 
