@@ -1,5 +1,6 @@
-Ứng dụng Sàn Khóa Học trực tuyến (Eduactional Ecommerce App)
-Ứng dụng React hiển thị danh sách khóa học, hỗ trợ tìm kiếm, lọc giá, xem gợi ý khóa học dựa trên yêu thích, và lưu lịch sử xem.
+Ứng dụng Ứng dụng Thương mại Điện tử Giáo dục (Eduactional Ecommerce App)
+
+(Ứng dụng React hiển thị danh sách khóa học, hỗ trợ tìm kiếm, lọc giá, xem gợi ý khóa học dựa trên yêu thích, và lưu lịch sử xem.)
 
 ✅ CÔNG NGHỆ SỬ DỤNG
 React + TypeScript
